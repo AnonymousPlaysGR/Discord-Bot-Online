@@ -15,4 +15,4 @@ async def on_message(message):
   if message.content.startswith('hello'):
       await message.channel.send('Twitter has a disincentive to reduce spam, as it reduces perceived daily users. It is suspicious')
 
-client.run('MTE2MTc1MjU2ODg2MzY3MDM3Mw.Gi8H92.FK14p93vjDb3iP6KGXpCDJscF2Pf0gPSsfkNIU')
+client.run('YOUR-DISCORD-BOT-TOKEN')
